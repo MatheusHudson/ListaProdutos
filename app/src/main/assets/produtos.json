@@ -1,0 +1,42 @@
+[
+  {
+    "nomeProduto":"Luvas Goleiro",
+    "descricaoProduto":"Luvas de goleiros da Nike.",
+    "imageProduto": "luva"
+  },
+  {
+    "nomeProduto":"Tênis",
+    "descricaoProduto":"Tênis da marca adida confortável.",
+    "imageProduto": "tenis"
+  },
+  {
+    "nomeProduto":"Skate",
+    "descricaoProduto":"Skate para praticar esporte.",
+    "imageProduto": "skate"
+  },
+  {
+    "nomeProduto":"Luvas Boxes",
+    "descricaoProduto":"Luvas de boxes para praticar sparring.",
+    "imageProduto": "luvaboxes"
+  },
+  {
+    "nomeProduto":"Relogio",
+    "descricaoProduto":"Relogio lançamento spotify.",
+    "imageProduto": "relogio"
+  },
+  {
+    "nomeProduto":"Capacete",
+    "descricaoProduto":"Capacete ciclista proteção.",
+    "imageProduto": "capacete"
+  },
+  {
+    "nomeProduto":"Bola",
+    "descricaoProduto":"Bola futebol campo adidas",
+    "imageProduto": "bola"
+  },
+  {
+    "nomeProduto":"Raquete",
+    "descricaoProduto":"Raquete para praticar tênis de mesa.",
+    "imageProduto": "raquete"
+  }
+]
